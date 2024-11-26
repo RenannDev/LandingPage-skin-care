@@ -112,4 +112,16 @@ body {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.div-imagens {
+  display: flex;
+}
+
+.imagem-exemplo2 {
+  border: 1px solid #000;
+}
+
+.imagem-exemplo3 {
+  border: 1px solid #000;
 }/*# sourceMappingURL=styles.css.map */
